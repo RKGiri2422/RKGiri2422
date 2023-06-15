@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajat Kumar Giri
+- 👋 Hi, I’m Rajat Kumar Giri
 - 👀 I’m interested in ...Python, SQL, Cloud
 - 🌱 I’m currently learning ... Master-Data-Engineering @ GUVI (IIT MADRAS)
 - 💞️ I’m looking to collaborate on ...
